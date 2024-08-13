@@ -23,15 +23,15 @@ https://github.com/Mohamed-Muhsen/Advanced-Calculator
 ## 📷 Screenshots
 ![Screenshot 2024-08-13 171216](https://github.com/user-attachments/assets/1ca1c5ff-b12c-4351-ad5d-2279879bed32)
 
-##🔧 Technologies Used
+## 🔧 Technologies Used
 - **HTML5
 - **CSS3
-   JavaScript ES6
+- **JavaScript ES6
  
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
 
 
-📬 Contact
+## 📬 Contact
 If you have any questions or suggestions, feel free to reach out to me at Mohamedmuhsen2002@gmail.com
 

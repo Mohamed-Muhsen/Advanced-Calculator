@@ -1,6 +1,7 @@
 # Advanced Calculator
 
-![Calculator Icon](![image](https://github.com/user-attachments/assets/1932141a-22f9-4962-9086-9a5381f24256))
+![Calculator Icon]
+![Screenshot 2024-08-13 171216](https://github.com/user-attachments/assets/1ca1c5ff-b12c-4351-ad5d-2279879bed32)
 
 Welcome to the **Advanced Calculator** project! This project is a modern, feature-rich calculator built using HTML, CSS, and JavaScript. It offers a user-friendly interface and advanced mathematical functions to enhance your computing experience.
 

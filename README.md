@@ -20,14 +20,14 @@ To get started with this project, clone the repository and open the `index.html`
 🌐 Live Demo
 https://github.com/Mohamed-Muhsen/Advanced-Calculator
 
-📷 Screenshots
+## 📷 Screenshots
 ![Screenshot 2024-08-13 171216](https://github.com/user-attachments/assets/1ca1c5ff-b12c-4351-ad5d-2279879bed32)
 
-🔧 Technologies Used
-HTML5
-CSS3
-JavaScript ES6
-🤝 Contributing
+##🔧 Technologies Used
+- **HTML5
+- **CSS3
+- **JavaScript ES6
+##🤝 Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
 
 
